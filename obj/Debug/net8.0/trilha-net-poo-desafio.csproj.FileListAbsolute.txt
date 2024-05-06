@@ -12,3 +12,4 @@ C:\Users\range\OneDrive\Área de Trabalho\trilha-net-poo-desafio\obj\Debug\net8.
 C:\Users\range\OneDrive\Área de Trabalho\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.pdb
 C:\Users\range\OneDrive\Área de Trabalho\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.genruntimeconfig.cache
 C:\Users\range\OneDrive\Área de Trabalho\trilha-net-poo-desafio\obj\Debug\net8.0\ref\trilha-net-poo-desafio.dll
+C:\Users\range\OneDrive\Área de Trabalho\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.sourcelink.json
